@@ -1,0 +1,6 @@
+[book]
+authors = ["ferrell-code"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Pangaea"
