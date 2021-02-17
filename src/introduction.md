@@ -1,5 +1,4 @@
-#
-Pangaea 🌎🌎🌎
+# Pangaea 🌎🌎🌎
 
 _The Future of Real Estate on Blockchain_
 
