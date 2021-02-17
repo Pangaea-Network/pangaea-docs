@@ -4,3 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Pangaea"
+
+[output.html]
+
+git-repository-url = "https://github.com/Pangaea-Network/Pangaea"

@@ -1,10 +1,11 @@
-# Pangaea 🌎🌎🌎
+#
+Pangaea 🌎🌎🌎
 
 _The Future of Real Estate on Blockchain_
 
 Greetings human, welcome to the official source of Pangaea's documentation!
 
-![Pangaea Logo](./img/chuck.jpg)
+![Pangaea Logo](./img/Pangaea1.png)
 
 ## What is Pangaea? 
 
