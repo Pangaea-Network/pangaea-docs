@@ -14,7 +14,7 @@ Pangaea is the worlds real estate blockchain. Pangaea allows property deeds to b
 
 Pangaea's mission is to provide users with a secure and decentralized marketplace to exchange real estate assets 
 
- The future of blockchain technology is cross-chain interoperability, we are developing a robust cross-chain communication system to allow user's assets to have full access to Defi markets. Pangaea sees a future where individuals can take morgages and use property as collatoral in a peer to peer manner without opaque middlemen runnning the show. 
+ The future of blockchain technology is cross-chain interoperability, we are developing a robust cross-chain communication system to allow user's assets to have full access to Defi markets. Pangaea sees a future where individuals can take mortgages and use property as collateral in a peer to peer manner without opaque middlemen runnning the show. 
 
 ## Media 
 
