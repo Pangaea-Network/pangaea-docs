@@ -4,7 +4,7 @@ Documentation for Pangaea
 
 # Install
 
-If you would like to download Pangaea documentation have at it! This documentation uses mdbook a simple package that can be downloaded from [rust](https://www.rust-lang.org/tools/install) package manager cargo (click on rust if you need to install rust)
+If you would like to download Pangaea's documentation have at it! This documentation uses mdbook a simple package that can be downloaded from [rust](https://www.rust-lang.org/tools/install) package manager cargo. Click on rust and follow their installation instructions if necessary.
 
 Follow along in terminal:
 
