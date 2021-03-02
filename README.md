@@ -1,4 +1,4 @@
-# pangaea-docs
+# Pangaea Docs
 
 Documentation for Pangaea
 
