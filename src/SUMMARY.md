@@ -1,4 +1,8 @@
 # Summary
 
 [Introduction](./introduction.md)
-- [Chapter 1](./chapter_1.md)
+- [Tokenomics](./Tokenomics.md)
+	- [Gaia](TokenomicsGaia.md)
+- [Pangaea Foundation (DAO)](./PangaeaFoundation.md)
+	- [Purpose](./PangaeaFoundationPurpose.md)
+
